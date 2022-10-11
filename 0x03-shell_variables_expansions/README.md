@@ -1,1 +1,1 @@
-a script that creates a new global variable.
+e a script that displays the result of BREATH to the power LOVE
