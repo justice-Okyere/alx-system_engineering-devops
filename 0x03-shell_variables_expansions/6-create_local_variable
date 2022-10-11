@@ -1,2 +1,2 @@
-#!/bin/
-echo BETTY="Holberton"
+#!/bin/bash
+echo BETTY="School"
